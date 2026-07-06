@@ -1,0 +1,2 @@
+PromotionID,PromotionName,PromotionType,ApplyMethod,StartDate,EndDate,Priority,CanCombine,Status
+000001,LOVE,Percentage,Product,7 6 2026,8 6 2026,20,0,0

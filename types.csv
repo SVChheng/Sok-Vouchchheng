@@ -1,0 +1,12 @@
+TypeID,TypeName,Status
+DR,Drink,1
+SN,Snack,1
+FD,Food,1
+FR,Frozen,1
+DA,Dairy,1
+FV,Fruit & Vegetable,1
+CL,Cleaning,1
+PC,Personal Care,1
+HB,Health & Beauty,1
+OT,Other,1
+?,?,0

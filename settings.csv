@@ -1,0 +1,14 @@
+settingName,settingValue
+storeName,Mart Management System
+storePassword,1234
+currency,$
+lowStockWarning,10
+nearExpiryWarningDays,180
+allowNegativeProfitPromotion,0
+defaultTaxRate,0
+receiptFooter,Thank you for shopping with us!
+maxLoginAttempt,3
+dateFormat,dd/mm/yyyy
+timeFormat,24 Hours
+autoBackup,1
+defaultPromotionPriority,1

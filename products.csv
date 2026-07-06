@@ -1,0 +1,170 @@
+ProductID,TypeID,ProductName,SellPrice,DiscountPrice,TotalStock,SoldThisMonth,ProfitThisMonth,Status
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+
+,,,0.00,0.00,0,0,0.00,0
+,,,0.00,0.00,0,0,0.00,0
+10001,1,Oreo Cookies,0.70,0.60,20,0,0.00,1
+
+,1,b,0.00,0.00,0,0,0.00,1
+CL0008,CL,Sponge Pack,1.20,0.00,0,18,3.60,1
+CL0004,CL,Glass Cleaner,2.90,0.00,0,9,7.20,1
+
+,CL,Laundry Detergent,5.80,5.20,0,6,9.60,1
+CL0004,CL,Glass Cleaner,2.90,0.00,0,9,7.20,1
+CL0005,CL,Bleach,2.20,2.00,0,7,4.90,1
+
+,CL,Toilet Cleaner,3.00,0.00,0,6,6.00,1
+CL0007,CL,Kitchen Cleaner,3.20,2.90,0,6,6.60,1
+CL0008,CL,Sponge Pack,1.20,0.00,0,18,3.60,1
+
+,CL,Garbage Bag,1.80,0.00,0,11,5.50,1
+CL0010,CL,Air Freshener,2.80,2.50,0,7,6.30,1
+CL0001,CL,Dishwashing Liquid,2.60,2.30,0,8,6.40,1
+10001,1,Oreo Cookies,0.70,0.60,20,0,0.00,1
+10002,1,b,0.00,0.00,0,0,0.00,1
+CL0008,CL,Sponge Pack,1.20,0.00,0,18,3.60,1
+CL0004,CL,Glass Cleaner,2.90,0.00,0,9,7.20,1
+CL0002,CL,Laundry Detergent,5.80,5.20,0,6,9.60,1
+CL0004,CL,Glass Cleaner,2.90,0.00,0,9,7.20,1
+CL0005,CL,Bleach,2.20,2.00,0,7,4.90,1
+CL0006,CL,Toilet Cleaner,3.00,0.00,0,6,6.00,1
+CL0007,CL,Kitchen Cleaner,3.20,2.90,0,6,6.60,1
+CL0008,CL,Sponge Pack,1.20,0.00,0,18,3.60,1
+CL0009,CL,Garbage Bag,1.80,0.00,0,11,5.50,1
+CL0010,CL,Air Freshener,2.80,2.50,0,7,6.30,1
+CL0001,CL,Dishwashing Liquid,2.60,2.30,0,8,6.40,1
+CL0002,CL,Laundry Detergent,5.80,5.20,0,6,9.60,1
+CL0003,CL,Floor Cleaner,3.40,0.00,0,8,8.00,1
+CL0006,CL,Toilet Cleaner,3.00,0.00,0,6,6.00,1
+CL0010,CL,Air Freshener,2.80,2.50,0,7,6.30,1
+DA0008,DA,Condensed Milk,2.10,1.90,0,8,5.60,1
+DA0009,DA,Soy Milk,1.60,0.00,1,10,5.00,1
+DA0010,DA,Fresh Cream,3.80,0.00,0,4,6.40,1
+DA0001,DA,Fresh Milk 1L,2.20,2.00,0,8,5.60,1
+DA0002,DA,Yogurt Strawberry,1.10,1.00,0,12,3.60,1
+DA0003,DA,Butter 250g,3.40,0.00,0,5,7.50,1
+DA0004,DA,Cheddar Cheese,4.80,4.30,0,4,8.40,1
+DA0005,DA,Chocolate Milk,1.50,0.00,0,9,4.50,1
+DA0006,DA,Greek Yogurt,2.30,2.00,0,6,4.80,1
+DA0007,DA,Whipping Cream,3.60,0.00,0,4,6.40,1
+DR0002,DR,Pepsi 330ml,0.90,0.00,0,15,5.25,1
+DR0003,DR,Sprite 330ml,0.90,0.00,0,12,4.20,1
+DR0004,DR,Fanta Orange 330ml,0.90,0.00,0,10,3.50,1
+DR0005,DR,Pocari Sweat,1.20,1.00,0,8,4.80,1
+DR0006,DR,Red Bull,1.50,0.00,0,9,6.30,1
+DR0007,DR,Monster Energy,2.20,2.00,0,6,7.20,1
+DR0008,DR,Orange Juice,1.80,0.00,0,7,5.60,1
+DR0009,DR,Apple Juice,1.80,1.60,0,5,4.50,1
+DR0010,DR,Mineral Water,0.50,0.00,0,30,6.00,1
+DR0001,DR,Coca Cola 330ml,0.90,0.80,0,18,6.30,1
+FD0010,FD,Fish Sauce,2.20,0.00,0,7,7.00,1
+FD0001,FD,Instant Noodles Chicken,0.80,0.70,0,18,3.60,1
+FD0002,FD,Instant Noodles Beef,0.80,0.00,0,15,3.00,1
+FD0003,FD,Bread Loaf,1.50,1.20,0,10,5.00,1
+FD0004,FD,White Rice 5kg,12.00,11.00,0,4,12.00,1
+FD0005,FD,Eggs 10 Pack,2.50,0.00,0,11,8.80,1
+FD0006,FD,Sugar 1kg,1.80,0.00,0,9,6.30,1
+FD0007,FD,Salt 500g,0.70,0.00,0,14,2.80,1
+FD0008,FD,Cooking Oil 1L,3.20,2.90,0,6,7.80,1
+FD0009,FD,Tomato Sauce,1.40,1.20,0,12,5.40,1
+FR0009,FR,Frozen Dumpling,4.60,0.00,0,6,8.40,1
+FR0010,FR,Frozen Sausage,3.60,0.00,0,8,7.20,1
+FR0001,FR,Frozen Chicken,5.80,5.20,0,5,9.00,1
+FR0002,FR,Frozen Beef Slice,8.50,0.00,0,3,10.50,1
+FR0003,FR,Frozen Shrimp,7.20,6.80,0,6,9.60,1
+FR0004,FR,Frozen Fish Fillet,6.40,0.00,0,4,8.00,1
+FR0005,FR,Frozen French Fries,3.80,3.40,0,8,8.00,1
+FR0006,FR,Chicken Nugget,4.20,0.00,0,9,9.90,1
+FR0007,FR,Ice Cream Vanilla,2.80,2.40,0,12,8.40,1
+FR0008,FR,Ice Cream Chocolate,2.80,2.40,0,11,7.70,1
+FV0007,FV,Cucumber,0.60,0.00,0,18,3.60,1
+FV0008,FV,Carrot,0.90,0.80,0,15,3.75,1
+FV0009,FV,Potato,1.10,0.00,0,17,5.10,1
+FV0010,FV,Onion,0.90,0.00,0,16,4.80,1
+FV0001,FV,Apple,0.60,0.50,0,20,3.00,1
+FV0002,FV,Banana,0.30,0.00,0,25,2.50,1
+FV0003,FV,Orange,0.70,0.60,0,18,3.60,1
+FV0004,FV,Grapes,2.50,2.20,0,7,7.00,1
+FV0005,FV,Watermelon,5.50,5.00,0,3,6.00,1
+FV0006,FV,Tomato,0.80,0.00,0,16,3.20,1
+HB0004,HB,Alcohol Spray,2.90,0.00,0,6,6.60,1
+HB0005,HB,Face Mask 10pcs,3.50,3.00,0,10,7.50,1
+HB0006,HB,Hand Cream,2.80,0.00,0,8,6.40,1
+HB0007,HB,Lip Balm,1.80,1.60,0,11,4.40,1
+HB0008,HB,Eye Drops,4.20,0.00,0,5,7.50,1
+HB0009,HB,Thermometer,8.50,0.00,0,2,8.00,1
+HB0010,HB,First Aid Kit,12.00,11.00,0,2,12.00,1
+HB0001,HB,Vitamin C,6.50,6.00,0,5,10.00,1
+HB0002,HB,Pain Relief Patch,3.20,0.00,0,7,7.00,1
+HB0003,HB,Bandage Box,2.40,2.10,0,8,5.60,1
+OT0003,OT,LED Bulb,3.80,0.00,0,8,8.00,1
+OT0004,OT,Extension Cable,8.20,7.50,0,3,9.00,1
+OT0005,OT,Notebook A5,1.50,0.00,0,16,4.80,1
+OT0006,OT,Ball Pen,0.80,0.00,0,24,3.60,1
+OT0007,OT,Marker Pen,1.20,1.00,0,10,4.00,1
+OT0008,OT,Scissors,2.60,0.00,0,7,6.30,1
+OT0009,OT,Tape Roll,1.40,0.00,0,10,4.50,1
+OT0010,OT,Gift Bag,1.80,1.50,0,9,4.50,1
+OT0001,OT,Battery AA,2.50,2.20,0,12,6.00,1
+OT0002,OT,Battery AAA,2.50,2.20,0,11,5.50,1
+PC0005,PC,Toothbrush,1.20,0.00,0,13,5.20,1
+PC0006,PC,Face Wash,3.60,3.20,0,7,7.00,1
+PC0007,PC,Body Lotion,5.20,0.00,0,4,8.80,1
+PC0008,PC,Hand Sanitizer,2.10,1.90,0,12,4.80,1
+PC0009,PC,Tissue Pack,1.10,0.00,0,22,4.40,1
+PC0010,PC,Cotton Buds,0.90,0.00,0,18,3.60,1
+PC0001,PC,Shampoo,4.50,4.00,0,8,8.00,1
+PC0002,PC,Conditioner,4.60,0.00,0,6,7.80,1
+PC0003,PC,Soap Bar,0.90,0.80,0,20,4.00,1
+PC0004,PC,Toothpaste,2.50,2.20,0,10,6.00,1
+SN0001,SN,Lay's Classic,1.20,0.00,0,11,5.50,1
+SN0002,SN,Doritos Nacho,1.30,1.10,0,9,5.40,1
+SN0003,SN,Pringles Original,2.80,2.50,0,7,9.10,1
+SN0004,SN,Oreo Cookies,1.60,0.00,0,13,7.80,1
+SN0005,SN,KitKat,0.90,0.80,0,20,6.00,1
+SN0006,SN,Snickers,1.00,0.00,0,16,5.60,1
+SN0007,SN,M&M Peanut,1.70,0.00,0,8,6.40,1
+SN0008,SN,Ritz Crackers,1.50,1.20,0,9,6.30,1
+SN0009,SN,Potato Sticks,1.10,0.00,0,14,5.60,1
+SN0010,SN,Seaweed Snack,0.80,0.70,0,18,4.50,1
+SN0011,SN,Hat,1.00,0.80,0,0,0.00,1
+b0001,b,b,0.00,0.00,0,0,0.00,1
